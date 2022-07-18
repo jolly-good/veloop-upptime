@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/veloop.pl",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 269,
-    "timeDay": 232,
-    "timeWeek": 163,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 268,
+    "timeDay": 252,
+    "timeWeek": 174,
+    "timeMonth": 268,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2022-07-11": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 95,
-    "timeWeek": 121,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "time": 592,
+    "timeDay": 128,
+    "timeWeek": 109,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 610,
-    "timeWeek": 540,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "time": 547,
+    "timeDay": 699,
+    "timeWeek": 549,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   }
 ]
