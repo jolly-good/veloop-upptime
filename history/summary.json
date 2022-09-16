@@ -31,18 +31,17 @@
     "icon": "https://favicons.githubusercontent.com/app.veloop.pl",
     "slug": "app",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 784,
     "timeDay": 2126,
     "timeWeek": 863,
     "timeMonth": 772,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2022-09-15": 5,
       "2022-08-21": 17,
       "2022-08-20": 17
     }
