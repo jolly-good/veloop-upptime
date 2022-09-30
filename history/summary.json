@@ -51,7 +51,7 @@
     "url": "https://api.veloop.pl",
     "icon": "https://favicons.githubusercontent.com/api.veloop.pl",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -62,6 +62,8 @@
     "timeWeek": 558,
     "timeMonth": 594,
     "timeYear": 589,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-30": 0
+    }
   }
 ]
