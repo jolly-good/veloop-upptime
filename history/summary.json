@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.81%",
-    "time": 369,
-    "timeDay": 48,
-    "timeWeek": 153,
-    "timeMonth": 268,
-    "timeYear": 369,
+    "time": 365,
+    "timeDay": 52,
+    "timeWeek": 156,
+    "timeMonth": 206,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2022-09-15": 18,
       "2022-09-05": 19,
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 785,
-    "timeDay": 1755,
-    "timeWeek": 666,
-    "timeMonth": 819,
-    "timeYear": 785,
+    "time": 783,
+    "timeDay": 548,
+    "timeWeek": 493,
+    "timeMonth": 846,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2022-08-21": 17,
       "2022-08-20": 17
@@ -52,18 +52,19 @@
     "icon": "https://favicons.githubusercontent.com/api.veloop.pl",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.44%",
+    "uptimeDay": "52.92%",
+    "uptimeWeek": "93.27%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "99.44%",
     "time": 589,
-    "timeDay": 418,
-    "timeWeek": 558,
-    "timeMonth": 594,
+    "timeDay": 0,
+    "timeWeek": 570,
+    "timeMonth": 600,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2022-09-30": 0
+      "2022-10-01": 83,
+      "2022-09-30": 595
     }
   }
 ]
