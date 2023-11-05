@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/veloop.pl.ico",
     "slug": "landing-page",
     "status": "down",
-    "uptime": "93.42%",
+    "uptime": "93.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 350,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2023-03-17": 1187,
       "2023-03-16": 1440,
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.veloop.pl.ico",
     "slug": "app",
     "status": "down",
-    "uptime": "93.59%",
+    "uptime": "93.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.53%",
-    "time": 688,
+    "time": 690,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 674,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2023-03-17": 1187,
       "2023-03-16": 1440,
@@ -118,11 +118,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.veloop.pl.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "69.56%",
+    "uptime": "69.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.13%",
+    "uptimeYear": "69.40%",
     "time": 559,
     "timeDay": 0,
     "timeWeek": 0,
@@ -242,8 +242,7 @@
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
-      "2022-11-06": 1440,
-      "2022-11-05": 1440
+      "2022-11-06": 1440
     }
   }
 ]
