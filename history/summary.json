@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/veloop.pl.ico",
     "slug": "landing-page",
     "status": "down",
-    "uptime": "94.54%",
+    "uptime": "94.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.55%",
-    "time": 340,
+    "time": 341,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 473,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2023-03-17": 1187,
       "2023-03-16": 1440,
@@ -47,8 +47,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 834,
-      "2023-02-13": 589,
-      "2023-02-12": 67
+      "2023-02-13": 589
     }
   },
   {
@@ -57,16 +56,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.veloop.pl.ico",
     "slug": "app",
     "status": "down",
-    "uptime": "94.68%",
+    "uptime": "94.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.55%",
-    "time": 643,
+    "time": 634,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 463,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2023-03-17": 1187,
       "2023-03-16": 1440,
@@ -99,8 +98,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 834,
-      "2023-02-13": 589,
-      "2023-02-12": 67
+      "2023-02-13": 589
     }
   },
   {
@@ -109,7 +107,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.veloop.pl.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "74.73%",
+    "uptime": "74.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -118,7 +116,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 455,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2023-03-17": 1187,
       "2023-03-16": 1440,
@@ -151,8 +149,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 834,
-      "2023-02-13": 589,
-      "2023-02-12": 67
+      "2023-02-13": 589
     }
   }
 ]
