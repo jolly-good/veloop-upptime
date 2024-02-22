@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/veloop.pl.ico",
     "slug": "landing-page",
     "status": "down",
-    "uptime": "94.63%",
+    "uptime": "94.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.21%",
+    "uptimeYear": "93.48%",
     "time": 337,
     "timeDay": 0,
     "timeWeek": 0,
@@ -38,8 +38,7 @@
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
-      "2023-02-23": 1440,
-      "2023-02-22": 1440
+      "2023-02-23": 1440
     }
   },
   {
@@ -48,12 +47,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.veloop.pl.ico",
     "slug": "app",
     "status": "down",
-    "uptime": "94.77%",
+    "uptime": "94.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.21%",
-    "time": 631,
+    "uptimeYear": "93.48%",
+    "time": 634,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -81,8 +80,7 @@
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
-      "2023-02-23": 1440,
-      "2023-02-22": 1440
+      "2023-02-23": 1440
     }
   },
   {
@@ -91,11 +89,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.veloop.pl.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "75.16%",
+    "uptime": "75.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.21%",
+    "uptimeYear": "93.48%",
     "time": 461,
     "timeDay": 0,
     "timeWeek": 0,
@@ -124,8 +122,7 @@
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
-      "2023-02-23": 1440,
-      "2023-02-22": 1440
+      "2023-02-23": 1440
     }
   }
 ]
